@@ -107,20 +107,6 @@ npm run data:import
 npm run data:destroy
 ```
 
-## Sample User Logins
-
-- **Live Admin Dashboard Login:**: [https://mern-shop-abxs.onrender.com/admin/login](https://mern-shop-abxs.onrender.com/admin/login)
-
-  - Email: admin@admin.com
-  - Password: admin123
-
-- **Live Customer Logins:**: [https://mern-shop-abxs.onrender.com/login](https://mern-shop-abxs.onrender.com/login)
-  - John Doe
-    - Email: john@email.com
-    - Password: john123
-  - Alice Smith
-    - Email: alice@email.com
-    - Password: alice123
 
 Feel free to explore and customize this eCommerce platform for your specific needs. Happy coding🤩!
 
