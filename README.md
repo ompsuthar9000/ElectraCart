@@ -64,16 +64,16 @@ Electra Cart uses **Stripe** for secure transactions.
 ### Homepage
 ![Homepage Screenshot](./ScreenShots/Screenshot%20(45).png)
 
-### Destinations Overview
+
 ![Destinations Screenshot](./ScreenShots/Screenshot%20(46).png)
 
-### Travel Gallery
+
 ![Travel Gallery Screenshot](./ScreenShots/Screenshot%20(47).png)
 
-### Tour Detail Page
+### Product Detail Page
 ![Travel Gallery Screenshot](./ScreenShots/Screenshot%20(48).png)
 
-### Tour Detail Page
+### Cart Page
 ![Travel Gallery Screenshot](./ScreenShots/Screenshot%20(49).png)
 
 ---
