@@ -61,7 +61,17 @@ Electra Cart uses **Stripe** for secure transactions.
 ---
 
 ## Screenshots 🌟
-_Add screenshots here to showcase the platform's design and features._
+### Homepage
+![Homepage Screenshot](./screenshots/Screenshot%20(42).png)
+
+### Destinations Overview
+![Destinations Screenshot](./screenshots/Screenshot%20(43).png)
+
+### Travel Gallery
+![Travel Gallery Screenshot](./screenshots/Screenshot%20(44).png)
+
+### Tour Detail Page
+![Travel Gallery Screenshot](./screenshots/Screenshot%20(44).png)
 
 ---
 
